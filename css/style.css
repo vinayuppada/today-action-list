@@ -1,0 +1,181 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+
+}
+
+
+}
+
+.inputs{
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+ 
+    
+     
+    
+}
+
+.data{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    gap: 4px;   
+}
+
+.data input{
+    padding: 4px;
+    outline: none;
+    border: 1px solid  #928cff;
+}
+
+.data button{
+    background: #928cff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+
+ */
+.box
+{
+    background: #fff;
+    border-radius: 10px;
+    width: 200px;
+
+    
+} 
+
+.box1
+{
+    background: #fff;
+    border-radius: 10px;
+    width: 255px;
+    margin-top: 5px;
+    
+} 
+
+.side{
+    display: flex;
+}
+
+
+body{
+    background-color: #928cff;
+    display: flex;
+
+   
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+.obox{
+   
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: flex-start;
+    margin-top: -120px;
+    
+}
+
+.container{
+   
+   
+    background: #fff;
+    
+    border-radius: 10px;
+    width: 220px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+h2{
+    font-size: 30px;
+    text-align: center
+}
+h3{
+   margin-top: -1px;
+    font-size: 32px;
+}
+.inputbox{
+    margin-top: -25px;
+    display: flex;
+    flex-direction: column;
+
+}
+.btnc{
+    background: #928cff;
+    color: #fff;
+   
+    cursor: pointer;
+    
+    border: 2px solid #928cff;
+  
+    
+}
+input{
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    outline:none;
+    border: 2px solid #928cff;
+}
+
+.side{
+ 
+}
+
+.item{
+
+    background: #928cff;
+    padding: 10px;
+    margin: 4px;
+    margin-left: 5px;
+    cursor: move;
+    color: white;
+    font-size: large;
+    width: 85%;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+      0px 0px 20px #b393d3;
+     
+  }
+
+ .frame{
+    padding: 20px 50px 10px 50px;
+    border: 2px solid black;
+    height: 450px;
+    margin-top: -40px;
+    border: 8px solid hsla(0,0%,100%,.5);
+    background-color: #6a65d3;
+    
+ }
+
+rffv{
+    background-color:#82d4ef;
+}
